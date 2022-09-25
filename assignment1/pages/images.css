@@ -1,0 +1,31 @@
+.header{
+    color: #51279B;
+    border-spacing: 35px;
+    padding-left: 100px;
+    background-repeat: no-repeat;
+    background-image: url(../images/logo.png);
+    background-position: 0.5cm 0.3cm;
+}
+
+a[href] {color:#51279B;}
+.header a:link { text-decoration: none; }
+.header a:hover { color: #8662c7; }
+
+.image{
+    margin-left: 125px;
+}
+
+.map{
+    margin-left: 125px;
+}
+
+.footer{
+    color:black;
+    border-spacing: 20px;
+    margin-left: 100px;
+    background-color: pink;
+    
+}
+
+.footer a:link { text-decoration: none; }
+.footer a:hover { color: #8662c7; }

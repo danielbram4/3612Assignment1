@@ -1,0 +1,106 @@
+.header{
+    border-spacing: 35px;
+    padding-left: 100px;
+    background-repeat: no-repeat;
+    background-image: url(../images/logo.png);
+    background-position: 0.5cm 0.3cm;
+}
+
+a[href] {color:#51279B;}
+.header a:link { text-decoration: none; }
+.header a:hover { color: #8662c7;}
+
+.title{
+    font-size: 48px;
+    padding-top: 75px;
+    padding-left: 150px;
+    font-weight: bold;
+    color: white;
+    font-family: Sans-serif;
+}
+
+.sub-head{
+    font-size: 24px;
+    padding-top: 20px;
+    padding-left: 150px;
+    color: white;
+    font-family: Sans-serif;
+    
+}
+
+.learn{
+    background-color:#51279B;
+    width: 120px;
+    height: 30px;
+    margin: 10px 150px;
+    text-align: center;
+    padding-top: 15px;
+    color:white;
+    font-size: 12px;
+    font-family: Sans-serif;
+
+}
+
+body{
+    background-image: url("../images/florence.jpg");
+    background-repeat: no-repeat;
+}
+
+
+.img{
+    margin-top: 285px;
+    display: inline-block;
+}
+
+
+
+.item {
+    vertical-align: bottom;
+    display: inline-block;
+    text-align: left;
+    width: 320px;
+}
+
+.caption {
+    display: block;
+    font-size: 14px;
+    color: black;
+} 
+
+.item a:link {text-decoration: none; }
+
+.cap-description{
+    display: block;
+    font-size: 12px;
+    background-image: url("../images/heart.png"), url("../images/comment.png");
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+    background-position: 0cm 0.5cm, 1.5cm 0.5cm;
+}
+
+.stat1{
+    display: block;
+    position: relative;
+    top:5px;
+    left:23px;
+}
+
+.stat2{
+    position: relative;
+    top:-10px;
+    left:80px;
+}
+
+.footer{
+    color:black;
+    border-spacing: 20px;
+    margin-left: 100px;
+    background-color: pink;
+    
+}
+
+.footer a:link { text-decoration: none; }
+.footer a:hover { color: #8662c7; }
+
+
+
