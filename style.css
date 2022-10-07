@@ -2,7 +2,7 @@
     border-spacing: 35px;
     padding-left: 100px;
     background-repeat: no-repeat;
-    background-image: url(../images/logo.png);
+    background-image: url(images/logo.png);
     background-position: 0.5cm 0.3cm;
 }
 
@@ -42,7 +42,7 @@ a[href] {color:#51279B;}
 }
 
 body{
-    background-image: url("../images/florence.jpg");
+    background-image: url("images/florence.jpg");
     background-repeat: no-repeat;
 }
 
@@ -72,7 +72,7 @@ body{
 .cap-description{
     display: block;
     font-size: 12px;
-    background-image: url("../images/heart.png"), url("../images/comment.png");
+    background-image: url("images/heart.png"), url("images/comment.png");
     background-repeat: no-repeat;
     background-size: 18px 18px;
     background-position: 0cm 0.5cm, 1.5cm 0.5cm;
