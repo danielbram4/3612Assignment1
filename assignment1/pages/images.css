@@ -27,6 +27,7 @@ a[href] {color:#51279B;}
     
 }
 
+
 .img1{
     background-color:  #fffacd;
 }
@@ -40,8 +41,11 @@ a[href] {color:#51279B;}
 }
 
 .information{
-    margin-left: 50px;
+    margin-left: 130px;
 }
 
-.footer a:link { text-decoration: none; }
+.notbolded{
+    font-weight:normal;
+}
+.footer a{text-decoration: none;}
 .footer a:hover { color: #8662c7; }
